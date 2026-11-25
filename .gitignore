@@ -1,1 +1,5 @@
 data/
+backup/
+!vothmo/dashboard/streamlit/data/
+__pycache__/
+*.pyc
